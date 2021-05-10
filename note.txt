@@ -1,0 +1,5 @@
+1. git clone: kéo dự án về máy tính từ server
+2. git itnit: Khởi tạo thư mục git local
+3. Git status: Kiểm tra status file
+4. Git add . : đưa tất cả các file có sự thay đổi vào vùng staging
+5. Git add [file_name]: đưa file có sự thay đổiv vào vùng staging
