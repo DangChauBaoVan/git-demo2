@@ -3,3 +3,6 @@
 3. Git status: Kiểm tra status file
 4. Git add . : đưa tất cả các file có sự thay đổi vào vùng staging
 5. Git add [file_name]: đưa file có sự thay đổiv vào vùng staging
+6. Git rm --cache: Đưa một file từ stagin quay ngược lại vùng working directory
+7. Git config --global user.name "Your_Name": set tên
+8. Git commit -m "message": đưa các fie có sự thay đổi sang vùng local repo(thư mục git)
